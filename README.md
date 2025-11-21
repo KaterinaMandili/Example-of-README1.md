@@ -4,5 +4,6 @@
 # Example-of-README1.md
 ## Περιεχόμενα
 ``` r
-print("Hello from R!")
+print("Example of README.md")
 ```
+
